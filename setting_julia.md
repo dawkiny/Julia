@@ -13,3 +13,5 @@ Pkg.build()
 Pkg.update()
 
 using IJuila;notebook()
+using IJulia; notebook(detached=true)
+Process(`'/media/dawkiny/M/' notebook`, ProcessRunning)
