@@ -3,7 +3,7 @@
 
 ```sh
 sudo apt-get install cmake
-sudo julia
+sudo julia      # To get permission, or you'll get a message 'Permission Denied'.
 ```
 
 ```julia
